@@ -1,0 +1,6 @@
+{
+  "release": "2.10.1",
+  "detected_stores": ["Steam", "GOG", "Epic"],
+  "deploy_action": "Apply",
+  "collection_update_guard": true
+}
